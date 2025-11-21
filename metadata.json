@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Power Plant Dashboard",
+  "description": "A futuristic 3D energy management dashboard visualizing real-time power generation, grid status, and storage analytics.",
+  "requestFramePermissions": []
+}
